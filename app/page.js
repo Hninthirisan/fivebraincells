@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { BackgroundGradientAnimation } from "@/components/ui/background-gradient-animation";
 import { TypewriterEffectSmooth } from "@/components/ui/typewriter-effect";
-import MarkdownContent from "./Markdowncontent";
+import MarkdownContent from "./MarkdownContent";
 import "@mantine/core/styles.css";
 import { Loader } from "@mantine/core";
 import { MantineProvider } from "@mantine/core";
