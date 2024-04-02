@@ -125,6 +125,16 @@ function Home() {
       "body",
       "disease",
       "toxin",
+      "infection",
+      "visit",
+      "payment",
+      "bill",
+      "record",
+      "prescription",
+      "wheel chair",
+      "rehabilitation",
+      "mental",
+      "consultation",
       "โรงพยาบาล",
       "ဆေးရုံ"
     ];
